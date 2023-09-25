@@ -1,0 +1,14 @@
+C:\Users\pontu\Documents\Chas\Projekt\Lab 3\GuessTheNumber2\bin\Debug\net6.0\GuessTheNumber2.exe
+C:\Users\pontu\Documents\Chas\Projekt\Lab 3\GuessTheNumber2\bin\Debug\net6.0\GuessTheNumber2.deps.json
+C:\Users\pontu\Documents\Chas\Projekt\Lab 3\GuessTheNumber2\bin\Debug\net6.0\GuessTheNumber2.runtimeconfig.json
+C:\Users\pontu\Documents\Chas\Projekt\Lab 3\GuessTheNumber2\bin\Debug\net6.0\GuessTheNumber2.dll
+C:\Users\pontu\Documents\Chas\Projekt\Lab 3\GuessTheNumber2\bin\Debug\net6.0\GuessTheNumber2.pdb
+C:\Users\pontu\Documents\Chas\Projekt\Lab 3\GuessTheNumber2\obj\Debug\net6.0\GuessTheNumber2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pontu\Documents\Chas\Projekt\Lab 3\GuessTheNumber2\obj\Debug\net6.0\GuessTheNumber2.AssemblyInfoInputs.cache
+C:\Users\pontu\Documents\Chas\Projekt\Lab 3\GuessTheNumber2\obj\Debug\net6.0\GuessTheNumber2.AssemblyInfo.cs
+C:\Users\pontu\Documents\Chas\Projekt\Lab 3\GuessTheNumber2\obj\Debug\net6.0\GuessTheNumber2.csproj.CoreCompileInputs.cache
+C:\Users\pontu\Documents\Chas\Projekt\Lab 3\GuessTheNumber2\obj\Debug\net6.0\GuessTheNumber2.dll
+C:\Users\pontu\Documents\Chas\Projekt\Lab 3\GuessTheNumber2\obj\Debug\net6.0\refint\GuessTheNumber2.dll
+C:\Users\pontu\Documents\Chas\Projekt\Lab 3\GuessTheNumber2\obj\Debug\net6.0\GuessTheNumber2.pdb
+C:\Users\pontu\Documents\Chas\Projekt\Lab 3\GuessTheNumber2\obj\Debug\net6.0\GuessTheNumber2.genruntimeconfig.cache
+C:\Users\pontu\Documents\Chas\Projekt\Lab 3\GuessTheNumber2\obj\Debug\net6.0\ref\GuessTheNumber2.dll
